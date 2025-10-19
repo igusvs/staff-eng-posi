@@ -1,0 +1,39 @@
+1 - Qual foi o meu maior case/projeto da minha carreira 
+    1.1 Chegada no sispag (sistema de pagamentos)
+        - Reducão de divergencias de status no transacional
+        - Normalizar comportamentos de DLQ
+        - Implementação de observability para acompanhar maquina de estados dos fluxos transacional do Pix e TED (cashout), latencias e erros
+        - Alarmes comportamentais sobre a maquina de estado do transacional e latencias
+        - Trabalhar com a democratização das bases de dados em conjunto com as areas de dados
+        - Modernização de aplicações ou transacionais 
+
+    1.2 Dificuldades encaradas
+        - Trabalho para influenciar pessoas 
+        - Atuacao como desenvolvedor pleno
+        - Produto complexo com regras náo tao claras e com ticket e volumetria alta
+
+2- Case onde foi necessario influenciar pessoas para DESCARTAR uma solução 
+    2.2 - Implementação de repique/retentativas para pagamentos rejeitados por AB03 
+        - Possivel problema por conta de volumetria de rejeicoes gerada por um ou mais bancos grandes fora do ar
+        - Trazer a responsabilidade para o Itau de tentar efetivar aquela transacao podendo gerar um colateral para o banco em caso de náo resolucao por conta da demora no restabelecimento de outra banco
+        - Arquitetura proposta em war room nao era ideal 
+        - Convencer time de negocios 
+        - Apresentar dados de possiveis rajadas em cenarios de crise e possiveis colaterais nas demais integracoes
+    2.3 - Lidando com o problema apresentando uma contra proposta 
+        - Solucao onde podemos trazer um comportamento de circuit breaker para rejeicoes 
+
+3- Como eu contribuia para melhorar a carreira dos meus pares
+    3.1 Feedbacks informal
+        - Buscando apresentar feedbacks de forma informal sempre que necessario, e tentando ao maximo compartilhar conhecimento do produto numa visao de negocios ou de arquitetura com o time para um melhor entendimento ou performance dos meus pares
+        - Entendendo as vontades individuais para evolucoes tecnicas para conseguir encaixar ou saber quando colocar essa pessoa para encabecar esse assunto 
+        - Entender momento de cada pessoa, para que seja aconselhar ou levantar a mao num possivel momento de baixa produtividade 
+
+4- Pior case/projeto da minha carreira 
+        
+
+
+
+
+
+
+Oque eu aprendi com isso
