@@ -17,7 +17,7 @@
 
 ## 🎯 Cases Estruturados no Modelo STAR
 
-### 1. Maior Case/Projeto da Carreira - Modernização do Sispag
+### 1. Maior Case/Projeto da Carreira - Modernização
 
 #### **S (Situação)**
 No Sispag, sistema crítico de pagamentos do Itaú, enfrentávamos altas taxas de divergência de status nas transações de Pix e TED, o que gerava insegurança operacional e insatisfação do cliente. Além disso, tínhamos falta de visibilidade completa do fluxo transacional, dificultando a identificação e resolução de problemas.
