@@ -1,4 +1,4 @@
-# Preparação para Entrevista - Especialista de Software | Itaú Unibanco
+# Preparação para Entrevista - Especialista de Software 
 
 ## 📋 Competências Avaliadas
 - Documentação
@@ -20,7 +20,7 @@
 ### 1. Maior Case/Projeto da Carreira - Modernização
 
 #### **S (Situação)**
-No Sispag, sistema crítico de pagamentos do Itaú, enfrentávamos altas taxas de divergência de status nas transações de Pix e TED, o que gerava insegurança operacional e insatisfação do cliente. Além disso, tínhamos falta de visibilidade completa do fluxo transacional, dificultando a identificação e resolução de problemas.
+No sistema, sistema crítico de pagamentos do 3123123, enfrentávamos altas taxas de divergência de status nas transações de Pix e TED, o que gerava insegurança operacional e insatisfação do cliente. Além disso, tínhamos falta de visibilidade completa do fluxo transacional, dificultando a identificação e resolução de problemas.
 
 #### **T (Tarefa)**
 Minha tarefa, como desenvolvedor pleno atuando com mentalidade de especialista, era liderar a iniciativa de aumentar a confiabilidade do sistema. Os objetivos eram: reduzir drasticamente as divergências, implementar um sistema robusto de observabilidade para monitorar a máquina de estados das transações e criar alarmes proativos.
