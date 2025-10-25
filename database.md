@@ -31,16 +31,16 @@ Banco de dados
 
 
     TEOREMA CAP 
-        - C > Consistencia ? Sempre a ultima informacao do registro 
+        - C > Consistencia ? (Consistency) Sempre a ultima informacao do registro 
 
             Detalhe > Nao importa qual nó seja consultado, sempre teremos a informação mais recente daquele registro 
             
-        - D > Disponibilidade ? Sempre disponivel para receber leitura ou gravacao mesmo que sacrifique a consistencia
+        - D > Disponibilidade ? (Availability) Sempre disponivel para receber leitura ou gravacao mesmo que sacrifique a consistencia
 
             Detalhe > Sempre respondendo, porem sacrificando a consistencia do registro, dados sendo tratados de forma ASYNC entre leitura e escrita 
 
 
-        - T > Tolerancia a particao ? Sistema operando em caso de falha de rede entre particoes
+        - T > Tolerancia a particao (Partition tolerance) ? Sistema operando em caso de falha de rede entre particoes
 
             Detalhe> Tolerante a falhas parciais
 
